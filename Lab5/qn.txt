@@ -1,0 +1,27 @@
+1. Create list of list to store set of words. Write a recursive function to check every word is palindrome
+
+or not. Include a recursive function in another separate module by receiving list item as an argument.
+
+2. Create a module called STACK to include the stack (consider tuple) data structure operation
+
+(push,pop,isempty). Include appropriate user defined function for each stack operation in STACK
+
+module. Write a recursive function to reverse the given stack content in another module.
+
+3. Create a List with N number of numerical values. Sort the list elements in ascending order using merge
+
+sort. (don’t use built in function). Include a recursive function for merge sort in process module. Print
+
+the sorted list normal module.
+
+4. Distance value is represented in terms of feet and inch. Create a nested dictionary to store
+distance value (feet and inch) for 5 distances. Outer dictionary key value as 1,2,3,..... Get the
+input from the user. Include the following user defined functions:
+a. Average () – find the average of 5 distance
+b. Add_distance() – add any two distances among 5 distances(based on outer
+dictionary key value)
+c. Maximum() – find the maximum among 5 distances. 
+
+5. Create a nested dictionary to store N student details such as rno,name,dept,marks(list of 5
+subjects),credits(list of 5 subjcets). Assum rno is the key value in outer dictionary. Calcullate
+each student SGPA and CGPA and update for each student in nested dictionary.
